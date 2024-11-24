@@ -18,7 +18,6 @@ void ItalianChef::makePasta() {
 void ItalianChef::nameBourdain() {
     cout << "name of the Italian Chef is " << name << endl;
 }
-
 void ItalianChef::makeSoup() {
     cout << "Chef " << name << " makes soup" << endl;
 }
